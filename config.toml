@@ -1,0 +1,4 @@
+baseURL = "http://octapress.com/"
+languageCode = "en-us"
+title = "Octapress"
+theme = "agico-hugo"
