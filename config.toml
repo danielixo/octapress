@@ -1,4 +1,4 @@
-baseURL = "https://octapress.com"
+baseURL = "https://dev.octapress.com"
 languageCode = "en-us"
 title = "Octapress - Premium Managed Wordpress Hosting"
 theme = "octapress"
