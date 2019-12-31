@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Octapress - Premium Managed Wordpress Hosting"
-theme = "octapress"
+theme = "agico-hugo"
 summaryLength = "10"
 paginate = 6
 

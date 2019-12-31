@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Octapress - Premium Managed Wordpress Hosting"
-theme = "octapress"
+title = "Agico | App Landing Hugo Template"
+theme = "agico-hugo"
 summaryLength = "10"
 paginate = 6
 
@@ -45,30 +45,30 @@ paginate = 6
   URL = "plugins/aos/aos.js"
 
 
-
+  
 # navigation
 [menu]
-
+    
   [[menu.main]]
   name = "About"
   URL = "about"
   weight = 2
-
+  
   [[menu.main]]
   name = "Service"
   URL = "service"
   weight = 3
-
+  
   [[menu.main]]
   name = "Blog"
   URL = "blog"
   weight = 4
-
+  
   [[menu.main]]
   name = "Team"
   URL = "team"
   weight = 6
-
+  
   [[menu.main]]
   name = "Contact"
   URL = "contact"
@@ -94,19 +94,19 @@ paginate = 6
   [[menu.footer]]
   name = "Company History"
   URL = "about"
-
+  
   [[menu.footer]]
   name = "About us"
   URL = "about"
-
+  
   [[menu.footer]]
   name = "Contact us"
   URL = "contact"
-
+  
   [[menu.footer]]
   name = "Services"
   URL = "service"
-
+  
   [[menu.footer]]
   name = "Privacy Policy"
   URL = "#"
@@ -115,8 +115,8 @@ paginate = 6
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "Premium Managed Wordpress hosting"
-author = "Octapress"
+description = "This is meta description"
+author = "Themefisher"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 mapLatitude = "51.5223477"
@@ -127,7 +127,7 @@ googleAnalitycsID = "Your ID"
 
   # Preloader
   [params.preloader]
-  enable = false
+  enable = true
 
   # Navigation get start button
   [params.navBtn]
@@ -145,33 +145,33 @@ googleAnalitycsID = "Your ID"
 
     [[params.footer.socialIcon]]
     icon = "fa-facebook"
-    URL = "https://facebook.com/octapress"
+    URL = "https://facebook.com/themefisher"
 
     [[params.footer.socialIcon]]
     icon = "fa-twitter"
-    URL = "https://twitter.com/octapress"
+    URL = "https://twitter.com/themefisher"
 
     [[params.footer.socialIcon]]
     icon = "fa-github"
-    URL = "https://github.com/octapress"
+    URL = "https://github.com/themefisher"
 
     [[params.footer.socialIcon]]
     icon = "fa-instagram"
-    URL = "https://instagram.com/octapress"
+    URL = "https://instagram.com/themefisher"
 
   [params.footer.service]
   title = "Service"
-
+  
   [params.footer.contact]
   title = "Contact Info"
-  address = "322 Portobello Road, London UK"
-  mobile = "+44 7724 615544‬"
-  email = "hello@octapress.com"
-
+  address = "9567 Turner Trace Apt. 466 North Willie, BC C3G8A4"
+  mobile = "+211234565523"
+  email = "info@agico.com"
+  
   # copyright
   [params.copyright]
-  copyright = "Octapress"
-
+  copyright = "A hugo theme by themefisher.com"
+  
 
 # share blog post
 [[params.sharePost]]
